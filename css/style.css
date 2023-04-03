@@ -14159,7 +14159,7 @@ textarea.form-control {
   .text h1 {
     color: rgb(209, 240, 255);
     font-family: sans; color: #0097A7;
-    -webkit-text-stroke: 0.6px black; /* width and color */
+    -webkit-text-stroke: 0.6px rgb(209, 240, 255); /* width and color */
   }
 }
 
