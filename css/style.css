@@ -14155,7 +14155,7 @@ textarea.form-control {
   font-family: sans; color: #0097A7;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 991px) {
   .text h1 {
     color: rgb(209, 240, 255);
     font-family: sans; color: #0097A7;
