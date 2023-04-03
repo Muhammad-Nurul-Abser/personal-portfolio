@@ -14155,6 +14155,13 @@ textarea.form-control {
   font-family: sans; color: #0097A7;
 }
 
+@media screen and (max-width: 767px) {
+  .text h1 {
+    color: rgb(209, 240, 255);
+    font-family: sans; color: #0097A7;
+  }
+}
+
 @keyframes slideInRight {
   from {
     transform: translateX(100%);
